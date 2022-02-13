@@ -1,4 +1,4 @@
-Collection of auto hot key scripts
+Collection of Auto Hot Key scripts
 ==================================
 
 WIP
