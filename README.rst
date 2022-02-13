@@ -1,4 +1,4 @@
-collection_template
-===================
+Collection of auto hot key scripts
+==================================
 
-template for collection repos
+WIP
